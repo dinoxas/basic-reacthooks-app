@@ -153,7 +153,6 @@ export default class Battle extends React.Component {
                 playerTwo: null,
                 battle: false})}
                 />
-
             )
         }
 
