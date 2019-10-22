@@ -1,7 +1,7 @@
 {
   "name": "basic-react-app",
   "version": "1.0.0",
-  "description": "\"# basic-react-app\"",
+  "description": "My first React app",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
